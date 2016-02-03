@@ -32,7 +32,7 @@ memory_calculator:
   memory_heuristics:
     heap: 75
     metaspace: 10
-    native: 15
+    native: 20
     permgen: 10
     stack: 5
   memory_initials:
