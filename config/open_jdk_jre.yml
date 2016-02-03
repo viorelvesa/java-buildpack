@@ -30,9 +30,9 @@ memory_calculator:
     permgen: 256m..
     stack: 512k
   memory_heuristics:
-    heap: 65
+    heap: 75
     metaspace: 10
-    native: 20
+    native: 15
     permgen: 10
     stack: 5
   memory_initials:
